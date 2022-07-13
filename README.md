@@ -1,6 +1,7 @@
 ### hi there!! i'm **michael** *(aka michei69)*
-#### i'm a student who wants to improve his coding skills in the mean time. i also like helping other people w/ stuff (ex: translations, typos etc.)
-#### i do have some projects i work on from time to time but they either are not public or are not uploaded to github
+i'm a student who wants to improve his coding skills in the mean time. i also like helping other people w/ stuff (ex: translations, typos etc.)
+
+i do have some projects i work on from time to time but they either are not public or are not uploaded to github
 
 ---
 
