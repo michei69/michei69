@@ -14,6 +14,8 @@ i do have some projects i work on from time to time but they either are not publ
 
 ![](https://img.shields.io/static/v1?label=&message=C%23&logo=dotnet&color=5555dd&logoColor=ffffff)
 
+![](https://img.shields.io/static/v1?label=&message=Lua&logo=lua&color=00a1ff&logoColor=ffffff)(mostly roblox)
+
 ![](https://img.shields.io/static/v1?label=&message=C%2b%2b&logo=cplusplus&color=226600&logoColor=ffffff)(somewhat)
 
 ![](https://img.shields.io/static/v1?label=&message=Kotlin&logo=kotlin&color=f18133&logoColor=ffffff)(somewhat)
