@@ -38,4 +38,8 @@ i do have some projects i work on from time to time but they are either not publ
 ![Tauri](https://img.shields.io/static/v1?label=&message=Tauri&logo=tauri&color=24c8db&logoColor=ffffff&style=flat-square)
 
 ---
+unrelated but if u want my music playlist under a text format, or want to see the synced lyrics i use, [click here](./musix/)
+
+---
+
 ##### PS: pfp ain't mine, i just don't have anything else to put atm :D

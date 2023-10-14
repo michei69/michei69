@@ -1,0 +1,328 @@
+# music
+
+this page serves one purpose - listing my local music playlist lol. have fun scrolling through it ^^
+
+this process is automated, so some titles may be inaccurate
+
+you can check the `.lrc` files [here](./lyrics/)
+
+**319 tracks**
+- AJR - OK Overture
+- AJR - Adventure Is Out There
+- AJR - Christmas in June
+- AJR - The Dumb Song
+- AJR - Way Less Sad
+- AJR - 100 Bad Days
+- AJR - Weak
+- AJR - Burn the House Down
+- AViVA - BLAME IT ON THE KIDS
+- Air Traffic Controller - Hurry, Hurry
+- Alec Benjamin - Dopamine Addict
+- Alec Benjamin - Hill I Will Die On
+- Alec Benjamin - If We Have Each Other
+- Alec Benjamin - Water Fountain
+- Alec Benjamin - Let Me Down Slowly
+- Alec Benjamin - Outrunning Karma
+- Alec Benjamin - If I Killed Someone For You
+- Alec Benjamin - Mind Is A Prison
+- Alec Benjamin - Demons
+- Alec Benjamin - The Book of You & I
+- Alec Benjamin - Jesus in LA
+- Alec Benjamin - I'm Not A Cynic
+- Alec Benjamin - Must Have Been The Wind
+- Alec Benjamin - Older
+- Alec Benjamin - Shadow Of Mine
+- Alec Benjamin - The Way You Felt
+- Alfonso Peduto - Binary Data IV
+- All Time Low - Backseat Serenade
+- Anson Seabra - It's Raining, It's Pouring
+- Aviators - Traveler's Song
+- Aviators - Let There Be Fire
+- Aviators - Mechanical Instinct
+- Aviators - Our Little Horror Story
+- Basshunter - DotA - Radio Edit
+- Beach Bunny - Prom Queen
+- Bowling For Soup - 1985
+- Box the Oxford - 1922
+- Bunting - S+ Sunset !
+- CG5 - Let Me Through
+- Cavetown - Devil Town
+- Chilling Smite - Sunny Sunday
+- Cigarettes After Sex - Affection
+- Cigarettes After Sex - K.
+- Cigarettes After Sex - Sunsetz
+- Cigarettes After Sex - Apocalypse
+- Cigarettes After Sex - Pistol
+- Cigarettes After Sex - You're All I Want
+- Cigarettes After Sex - Cry
+- Codruta Jula Pop - Dulce Soferie
+- Colony House - You Know It
+- Connor Kauffman - Bleed
+- Connor Kauffman - Hate You For A Lifetime
+- Connor Kauffman - Remember
+- Connor Price - Start Again
+- Counting Crows - Accidentally In Love
+- Coyote Theory - Taking Over the World
+- Crusher-P - Echo
+- Crystal Castles - Untrust Us
+- Derivakat - Finally Find You
+- Dermot Kennedy - Power Over Me
+- El Camino Acid - Don't Wanna Lose You
+- Ellise - Angels Don't Cry
+- Em Beihold - City of Angels
+- Ethereal in E - The Rhythm of Rain
+- Ethereal in E - Thunder Therapy
+- Ethereal in E - The Flow of Fern Falls
+- Ethereal in E - Late Night Lullaby
+- Ethereal in E - Just Driftin'
+- Ethereal in E - Kiwi
+- Ethereal in E - Crystal Courts
+- Ethereal in E - Brother Bob's Bubbles
+- Ethereal in E - Coeur d'carousel
+- Ethereal in E - Heartbeat's End
+- Evanescence - Bring Me To Life
+- Felix Jaehn - Hot2Touch
+- First of October - Do You Want To?
+- Freya Ridings - Still Have You
+- Ghost - Mary On A Cross
+- Go! Child - Deadlock
+- Grover Washington, Jr. - Just the Two of Us
+- Halsey - Colors
+- Hampton The Hampster - The HampsterDance Song
+- Henry Moodie - you were there for me
+- Holder - Spider Dance
+- ILLENIUM - Blame Myself
+- Jack Stauber's Micropop - Coffee
+- Jordan Clarke - Freaks
+- Josh Rabenold - Always Remember Us This Way
+- Jukebox The Ghost - Hollywood
+- Kennyoung - See You!
+- Kenya Grace - Meteor
+- Kenya Grace - Afterparty Lover
+- Lana Del Rey - Did you know that there's a tunnel under Ocean Blvd
+- Lana Del Rey - Video Games
+- Lana Del Rey - Dark Paradise
+- Lana Del Rey - Million Dollar Man
+- Lana Del Rey - Summertime Sadness
+- Lord Huron - The Night We Met
+- MandoPony - The Show Must Go On
+- MandoPony - Noticed
+- Mareux - The Perfect Girl - Instrumental
+- Maya Hawke - To Love a Boy
+- Micky - This Is The Life - VIZE Remix
+- Mike Love - Darlin'
+- Mikolas Josef - Delilah
+- Miley Cyrus - Never Be Me
+- Mimi Webb - Last Train To London
+- Mokita - Lonely City
+- Mother Mother - It's Alright
+- Mr.Kitty - Mr.Kitty - Life (Deluxe Edition).flac
+- Mr.Kitty - 6x6
+- Mr.Kitty - 44 Days
+- Mr.Kitty - Messiah
+- Mr.Kitty - Lost Children
+- Mr.Kitty - Mother Mary
+- Mr.Kitty - Night Terror
+- Mr.Kitty - Don't Worry
+- Mr.Kitty - Uncarresed
+- Mr.Kitty - Evaporating Sun
+- Mr.Kitty - Hands
+- Mr.Kitty - Destroy Me
+- Mr.Kitty - Carnations
+- Mr.Kitty - A New Hour
+- Mr.Kitty - Detach
+- Mr.Kitty - Breath Control
+- Mr.Kitty - Modern Romance
+- Mr.Kitty - Exorcism
+- Mr.Kitty - Everything Will Be Okay
+- Mr.Kitty - Scars ft. Tyler Tripp
+- Mr.Kitty - Shapeshift
+- Mr.Kitty - Wander
+- Mr.Kitty - For Stars Will Rise Again ft. Brian Bauer
+- Mr.Kitty - Until Death Do Us Part
+- Mr.Kitty - Hell
+- Mr.Kitty - Mother
+- Mr.Kitty - Entwine
+- Mr.Kitty - Shanghai
+- Mr.Kitty - I Lost You
+- Mr.Kitty - Discolored
+- Mr.Kitty - In Your Blood
+- Mr.Kitty - Flowers for Boys
+- Mr.Kitty - Cycle of Violence
+- Mr.Kitty - Spirit of the Forest
+- Mr.Kitty - I...
+- Mr.Kitty - Undo
+- Mr.Kitty - Habits
+- Mr.Kitty - Forget
+- Mr.Kitty - give/take
+- Mr.Kitty - No Heart
+- Mr.Kitty - Malformed
+- Mr.Kitty - Crisis Point
+- Mr.Kitty - Earthstones
+- Mr.Kitty - Lamentation
+- Mr.Kitty - Dream Diver
+- Mr.Kitty - Birds Of Prey
+- Mr.Kitty - Healing Waters
+- Mr.Kitty - Greater Than Us
+- Mr.Kitty - I Hope You Fall Apart
+- Mr.Kitty - Inhale, Exhale
+- Mr.Kitty - Someday
+- Mr.Kitty - Neverending Nights
+- Mr.Kitty - Bleed Black
+- Mr.Kitty - Haunts
+- Mr.Kitty - Gold
+- Mr.Kitty - Fight Your Friends
+- Mr.Kitty - Constellations
+- Mr.Kitty - White Tiger
+- Mr.Kitty - 
+- Mr.Kitty - Disintegrate
+- Mr.Kitty - It is all true
+- Mr.Kitty - Mirror Casket
+- Mr.Kitty - My Favorite Ghost
+- Mr.Kitty - Resurrection
+- Mr.Kitty - XIII
+- Mr.Kitty - Rats
+- Mr.Kitty - Glow
+- Mr.Kitty - Hollow
+- Mr.Kitty - Devour
+- Mr.Kitty - Neglect
+- Mr.Kitty - Serenity
+- Mr.Kitty - Pathogen
+- Mr.Kitty - After Dark
+- Mr.Kitty - Laceration
+- Mr.Kitty - Black Truth
+- Mr.Kitty - Into Nothing
+- Mr.Kitty - Hold Me Down
+- Mr.Kitty - Shadow Dancer
+- Mr.Kitty - Child Of The Earth
+- Mr.Kitty - Wait
+- Mr.Kitty - From Liquid
+- Mr.Kitty - My Weak Side
+- Mr.Kitty - Disconnect Lover
+- Mr.Kitty - The View Isn't The Same
+- Mr.Kitty - Molt
+- Mr.Kitty - Trauma
+- Mr.Kitty - Melting Core
+- Mr.Kitty - Empty Phases
+- Mr.Kitty - I Want To Hurt Myself
+- Mr.Kitty - Rain
+- Mr.Kitty - Be Alive
+- Mr.Kitty - 0% Angel
+- Mr.Kitty - Puzzle Heart
+- Mr.Kitty - Destruction Of Us
+- Mr.Kitty - Cyst
+- Mr.Kitty - Bullet
+- Mr.Kitty - Immurement
+- Mr.Kitty - In Your Arms
+- Mr.Kitty - Died On The Land
+- Mr.Kitty - Home
+- Mr.Kitty - Anguish
+- Mr.Kitty - Bloodletting
+- Mr.Kitty - Not Dead Yet
+- Mr.Kitty - I Want To Hurt You
+- Mr.Kitty - Whip
+- Mr.Kitty - Make It Right
+- Mr.Kitty - Sanctum Of Ash
+- Mr.Kitty - I Did It All For You
+- Mr.Kitty - Wound
+- My Chemical Romance - I Don't Love You
+- Oliver Tree - Miss You
+- Panic! At The Disco - Emperor's New Clothes
+- Panic! At The Disco - High Hopes
+- Panic! At The Disco - Roaring 20s
+- Panic! At The Disco - One of the Drunks
+- Paramore - Interlude: I'm Not Angry Anymore
+- Pixies - Where Is My Mind?
+- Powfu - death bed (coffee for your head)
+- Rich Aucoin - We're in It Together
+- Ricky Montgomery - Line Without a Hook
+- Rio Romeo - Inarticulation
+- Ruth B. - Dandelions
+- Ryan Mack - Overwhelmed (Ryan Mack Remix)
+- SLANDER - Love Is Gone - Tiësto Remix
+- SZA - Kill Bill
+- Sarah Cothran - As the World Caves In
+- Shoe - People and Their Bits
+- Smallpools - American Love
+- Smallpools - Killer Whales
+- Smallpools - Dreaming
+- Smallpools - Over & Over
+- Sofi Tukker - Feeling Good
+- Sorana - STUPID HEART
+- Steampianist - The Experiment (with Shye)
+- Stellar - Ashes
+- Stellar - Blur
+- Stellar - Mistake
+- Stellar - Stranger
+- Steven Universe - We Are The Crystal Gems - Main Title
+- Steven Universe - Giant Woman
+- Steven Universe - Stronger Than You
+- Steven Universe - Full Disclosure
+- Steven Universe - Both of You
+- Steven Universe - Here Comes a Thought
+- Steven Universe - Home Sweet Home
+- Steven Universe - Happily Ever After
+- Streetlight Manifesto - The Littlest Things
+- Studio Killers - Jenny (I Wanna Ruin Our Friendship)
+- Sub Urban - Cradles
+- Tally Hall - Turn the Lights Off
+- Taylor Swift - willow
+- Taylor Swift - champagne problems
+- Taylor Swift - dorothea
+- Taylor Swift - cardigan
+- Taylor Swift - my tears ricochet
+- Taylor Swift - mirrorball
+- Taylor Swift - august
+- Taylor Swift - this is me trying
+- Taylor Swift - Back To December
+- Taylor Swift - Lover
+- Taylor Swift - Style
+- Taylor Swift - You're On Your Own, Kid
+- Tessa Violet - Crush
+- The Happy Fits - She Wants Me (To Be Loved)
+- The Honeysticks - Out Like a Light
+- The Kid LAROI - Love Again
+- The Living End - Not Like The Other Boys
+- The Living Tombstone - Goodbye Moonmen
+- The Living Tombstone - This Comes From Inside
+- The Living Tombstone - Pikachu's Lament - Red Version (Instrumental)
+- The Neighbourhood - Sweater Weather
+- The Orion Experience - Like Sexy Dynamite
+- The Vanished People - AWAKE
+- Tokio Hotel - Scream
+- Tokio Hotel - Ready, Set, Go!
+- Tokio Hotel - Monsoon
+- Tokio Hotel - Don't Jump
+- Tokio Hotel - Sacred
+- Tokio Hotel - Break Away
+- Tokio Hotel - Rescue Me
+- Tokio Hotel - Bad Love
+- Tom Odell - Another Love
+- Tryhardninja - Take Back the Night
+- YonKaGor - Another Mistake
+- YonKaGor - Circus Hop
+- YonKaGor - Fallacy
+- YonKaGor - Mr. Sunfish
+- YonKaGor - Silly Plans
+- YonKaGor - Top 10 Things to Do Before You Die
+- YonKaGor - You'll Be Gone
+- YonKaGor - You're Just Like Pop Music
+- YonKaGor - You Made Me Fall in Love
+- YonKaGor - I Forgot That You Exist
+- YonKaGor - Bitter and Blunt
+- YonKaGor - Paper Alibis
+- YonKaGor - Dandelion
+- Young Rising Sons - SAD (Clap Your Hands)
+- Zeph - could you love me while i hate myself
+- d4vd - Romantic Homicide
+- daddy's girl - after dark x sweater weather
+- fin - Ship in a Bottle
+- ivycomb - Soul Astray
+- kate gill - ken&barbie
+- kroh - Typical Me
+- mxmtoon - prom dress
+- salvia palth - (dream)
+- vaultboy - everything sucks
+- Øneheart - apathy
+- Øneheart - fading lights
+- Øneheart - snowfall
