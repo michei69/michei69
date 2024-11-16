@@ -1,7 +1,7 @@
 ### hi there!! i'm **michael** *(aka michei69)*
-i'm a student who wants to improve his coding skills in the mean time. i also like helping other people w/ stuff (ex: translations, typos etc.)
+just a student who wants to improve his coding skills in the mean time. i also like helping other people w/ stuff (ex: translations, typos etc.)
 
-i do have some projects i work on from time to time but they are either not public or are not uploaded to github
+i do have some projects i work on from time to time, but they are either not public or are not uploaded to github
 
 ---
 
@@ -14,11 +14,12 @@ i do have some projects i work on from time to time but they are either not publ
 ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&logo=javascript&color=eeee00&logoColor=ffffff&style=flat-square)
 ![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&logo=typescript&color=0099dd&logoColor=ffffff&style=flat-square)
 
-![Expressjs](https://img.shields.io/static/v1?label=&message=ExpressJS&logo=express&color=444&logoColor=ffffff&style=flat-square)(somewhat)
+![ExpressJS](https://img.shields.io/static/v1?label=&message=ExpressJS&logo=express&color=444&logoColor=ffffff&style=flat-square)(somewhat)
 
 ![Python](https://img.shields.io/static/v1?label=&message=Python&logo=python&color=3c78a9&logoColor=ffffff&style=flat-square)
 
 ![C#](https://img.shields.io/static/v1?label=&message=C%23&logo=dotnet&color=5555dd&logoColor=ffffff&style=flat-square)
+![Java](https://img.shields.io/static/v1?label=&message=Java&logo=openjdk&color=d56a20&logoColor=ffffff&style=flat-square)
 
 ![Lua](https://img.shields.io/static/v1?label=&message=Lua&logo=lua&color=00a1ff&logoColor=ffffff&style=flat-square)(mostly roblox)
 
@@ -36,9 +37,6 @@ i do have some projects i work on from time to time but they are either not publ
 
 ![Rust](https://img.shields.io/static/v1?label=&message=Rust&logo=rust&color=000&logoColor=ffffff&style=flat-square)
 ![Tauri](https://img.shields.io/static/v1?label=&message=Tauri&logo=tauri&color=24c8db&logoColor=ffffff&style=flat-square)
-
----
-unrelated but if u want my music playlist under a text format, or want to see the synced lyrics i use, [click here](./musix/)
 
 ---
 

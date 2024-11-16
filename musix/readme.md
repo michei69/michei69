@@ -1,3 +1,9 @@
+# OUTDATED!
+
+I have moved on from local playlists to youtube music, and i no longer maintain this (nor do i have any playlists on ytm either)
+
+Still keeping this for the lyrics files tho
+
 # music
 
 this page serves one purpose - listing my local music playlist lol. have fun scrolling through it ^^
