@@ -3,7 +3,7 @@ just a student who's practicing his programming skills in the mean time. i also 
 
 i do have some projects i work on from time to time, but they are either not public or are not uploaded to github
 
-you can find my current active (public) project [right here](https://github.com/michei69/smule-desktop/) 
+you can find my current active (public) projects [right here](https://github.com/michei69/smule-desktop/) and [here](https://github.com/michei69/SmuleXposed)
 
 ---
 
